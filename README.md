@@ -88,6 +88,8 @@ bordure violette et un effet de lueur.
 
 ## Deploiement
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3618bdc1-b887-417f-a30c-b10416e79072" />
+
 Le projet est deploye sur Vercel avec CI/CD automatique. Chaque push
 sur la branche main declenche automatiquement un nouveau deploiement.
 
