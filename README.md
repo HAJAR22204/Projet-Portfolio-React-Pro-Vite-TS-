@@ -20,7 +20,7 @@ avec une navigation fluide entre les pages grace a React Router.
 ---
 
 ## Structure du projet
-
+```
 src/
 ├── app/
 │   ├── router.tsx
@@ -39,7 +39,7 @@ src/
 │   └── ui/
 ├── index.css
 └── main.tsx
-
+```
 ---
 
 ## Pages
